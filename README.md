@@ -11,7 +11,7 @@
 
   <br>
   
-  <a href="https://www.codacy.com/manual/Gabriel4420/UrnaEletronicautm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gabriel4420/Urna_Eletronica&amp;utm_campaign=Badge_Grade">
+  <a href="https://www.codacy.com/manual/Gabriel4420/UrnaEletronica?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=Gabriel4420/Urna_Eletronica&amp;utm_campaign=Badge_Grade">
     <img src="https://app.codacy.com/project/badge/Grade/6dd6b46abeb14e99935a2b9ac5c6ede2"/>
   </a>
   
