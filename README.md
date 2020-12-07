@@ -1,5 +1,5 @@
 <h1 align="center">
-  &#x1F4F1; URNA ELETRÔNICA &#x1F4F1;
+  ✅ URNA ELETRÔNICA ✅
 </h1>
 
 <p align="center">
