@@ -5,9 +5,9 @@
 <p align="center">
    <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/Gabriel4420/UrnaEletronica>
 
-  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Gabriel4420/UrnaEletronicalogo=html">
+  <img alt="GitHub top language" src="https://img.shields.io/github/languages/top/Gabriel4420/UrnaEletronicalogo?=html">
 
-  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/Gabriel4420/UrnaEletronicacolor=green">
+  <img alt="GitHub repo size in bytes" src="https://img.shields.io/github/repo-size/Gabriel4420/UrnaEletronica?color=green">
 
   <br>
   
