@@ -14,9 +14,6 @@
     <img src="https://app.codacy.com/project/badge/Grade/6dd6b46abeb14e99935a2b9ac5c6ede2"/>
   </a>
   
-  <img alt="GitHub code size in bytes" src="https://img.shields.io/github/last-commit/Gabriel4420/UrnaEletronica>
-
-
   <a href="https://www.linkedin.com/in/gabriel-rodrigues-perez-2069b072/">
     <img alt="Made by Gabriel" src="https://img.shields.io/badge/made%20by-Gabriel-%2304D361">
   </a>
